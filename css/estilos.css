@@ -1,4 +1,10 @@
 #menu-principal {
-	background: #726a93;
+  background: #726a93;
 }
-
+.parallax-container {
+  color: white;
+  height: 400px;
+}
+#botao-contato {
+  background: #E2A412;
+}
